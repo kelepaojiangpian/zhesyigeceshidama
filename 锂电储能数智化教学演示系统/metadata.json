@@ -1,0 +1,6 @@
+{
+  "name": "锂电储能数智化教学演示系统",
+  "description": "用于教学演示的锂电储能数字孪生监控大屏，支持通过 JSON 指令实时驱动 UI 变化。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
